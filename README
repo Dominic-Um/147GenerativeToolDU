@@ -1,3 +1,119 @@
 C++ based item modifier generator a la Borderlands or Terraria, creates statistical and behavioural modifiers for items in an RPG style. Can be used in anything from a Turn-Based RPG to shooter with RPG elements context.
 How to:
 Currently generates plain text output, can be ran in anything that can compile C++, when ran, you are prompted whether to use the default list of items or input your own, so far, there are two categories of items, equipables and weapons.
+Parameters:
+There are three parameters that may be adjusted, with comments in the code.
+Modifier strength, 1, 2 or 3, determines the strength of both positive and negative modifiers (numerical values).
+Wildcard chance, the chance for a special effect of weapon behaviour in percent
+Finally, rarity bias, the good or bad bias of modifiers ranging from -100 to 100
+
+Copy-pasted sample output:
+
+"Use default item lists? (y/n): y
+
+Generating Items...
+
+Item Type: Equipable
+Balanced Chestplate
+  Damage Bonus: 2
+  Speed Bonus: 0
+-----------------------------
+Item Type: Equipable
+Cracked Bracelet
+  Damage Bonus: -6
+  Speed Bonus: -2
+  Wildcard: 10% chance to block damage
+-----------------------------
+Item Type: Equipable
+Defective Ring
+  Damage Bonus: -10
+  Speed Bonus: -4
+-----------------------------
+Item Type: Equipable
+Fragile Bracelet
+  Damage Bonus: -12
+  Speed Bonus: -8
+-----------------------------
+Item Type: Equipable
+Standard Bracelet
+  Damage Bonus: 0
+  Speed Bonus: 2
+-----------------------------
+Item Type: Equipable
+Defective Ring
+  Damage Bonus: -10
+  Speed Bonus: -4
+-----------------------------
+Item Type: Equipable
+Blessed Amulet
+  Damage Bonus: 8
+  Speed Bonus: 6
+  Wildcard: 10% chance to block damage
+-----------------------------
+Item Type: Weapon
+Standard Dagger
+  Damage Bonus: 0
+  Speed Bonus: 2
+-----------------------------
+Item Type: Weapon
+Rusty Scythe
+  Damage Bonus: -8
+  Speed Bonus: -4
+-----------------------------
+Item Type: Equipable
+Reliable Belt
+  Damage Bonus: 2
+  Speed Bonus: 2
+  Wildcard: 10% chance to block damage
+-----------------------------
+Item Type: Weapon
+Reliable Crossbow
+  Damage Bonus: 2
+  Speed Bonus: 2
+-----------------------------
+Item Type: Equipable
+ Ring
+  Damage Bonus: 0
+  Speed Bonus: 0
+-----------------------------
+Item Type: Weapon
+Standard Dagger
+  Damage Bonus: 0
+  Speed Bonus: 2
+-----------------------------
+Item Type: Weapon
+Cracked Crossbow
+  Damage Bonus: -6
+  Speed Bonus: -2
+-----------------------------
+Item Type: Weapon
+Legendary Warhammer
+  Damage Bonus: 14
+  Speed Bonus: 6
+-----------------------------
+Item Type: Weapon
+Cursed Spear
+  Damage Bonus: -14
+  Speed Bonus: -6
+-----------------------------
+Item Type: Equipable
+Defective Cloak
+  Damage Bonus: -10
+  Speed Bonus: -4
+-----------------------------
+Item Type: Weapon
+Balanced Bow
+  Damage Bonus: 2
+  Speed Bonus: 0
+-----------------------------
+Item Type: Weapon
+Standard Dagger
+  Damage Bonus: 0
+  Speed Bonus: 2
+  Wildcard: 5 % Chance to do infinite damage
+-----------------------------
+Item Type: Weapon
+ Bow
+  Damage Bonus: 0
+  Speed Bonus: 0
+-----------------------------"
