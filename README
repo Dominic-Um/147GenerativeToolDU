@@ -19,106 +19,104 @@ Copy-pasted sample output:
 Generating Items...
 
 Item Type: Equipable
-Legendary Belt
-  Damage Bonus: 14
-  Speed Bonus: 6
-  Wildcard: Reflects small damage to attacker
+Defective Helmet
+  Damage Bonus: -10
+  Speed Bonus: -4
+  Wildcard: 10% chance to block damage
 -----------------------------
 Item Type: Equipable
- Amulet
-  Damage Bonus: 0
-  Speed Bonus: 0
------------------------------
-Item Type: Weapon
- Scythe
-  Damage Bonus: 0
-  Speed Bonus: 0
------------------------------
-Item Type: Equipable
-Standard Chestplate
-  Damage Bonus: 0
-  Speed Bonus: 2
------------------------------
-Item Type: Weapon
-Reliable Dagger
+Balanced Ring
   Damage Bonus: 2
-  Speed Bonus: 2
+  Speed Bonus: 0
 -----------------------------
 Item Type: Weapon
-Defective Katana
+Cracked Spear
+  Damage Bonus: -6
+  Speed Bonus: -2
+-----------------------------
+Item Type: Weapon
+Fragile Hammer
+  Damage Bonus: -12
+  Speed Bonus: -8
+-----------------------------
+Item Type: Equipable
+Defective Chestplate
   Damage Bonus: -10
   Speed Bonus: -4
 -----------------------------
-Item Type: Equipable
- Gauntlets
-  Damage Bonus: 0
+Item Type: Weapon
+Balanced Sword
+  Damage Bonus: 2
   Speed Bonus: 0
 -----------------------------
-Item Type: Weapon
-Legendary Dagger
+Item Type: Equipable
+Legendary Mask
   Damage Bonus: 14
   Speed Bonus: 6
 -----------------------------
 Item Type: Equipable
-Legendary Boots
+Legendary Amulet
   Damage Bonus: 14
   Speed Bonus: 6
+-----------------------------
+Item Type: Weapon
+Cracked Bow
+  Damage Bonus: -6
+  Speed Bonus: -2
+-----------------------------
+Item Type: Equipable
+Cracked Chestplate
+  Damage Bonus: -6
+  Speed Bonus: -2
+-----------------------------
+Item Type: Equipable
+Cursed Mask
+  Damage Bonus: -14
+  Speed Bonus: -6
 -----------------------------
 Item Type: Equipable
 Ancient Boots
   Damage Bonus: 12
   Speed Bonus: 4
------------------------------
-Item Type: Weapon
- Axe
-  Damage Bonus: 0
-  Speed Bonus: 0
+  Wildcard: Increases movement speed
 -----------------------------
 Item Type: Equipable
-Divine Ring
-  Damage Bonus: 10
-  Speed Bonus: 4
------------------------------
-Item Type: Equipable
- Helmet
-  Damage Bonus: 0
-  Speed Bonus: 0
------------------------------
-Item Type: Weapon
- Katana
-  Damage Bonus: 0
-  Speed Bonus: 0
-  Wildcard: 5% chance to do infinite damage
------------------------------
-Item Type: Weapon
-Defective Sword
+Defective Mask
   Damage Bonus: -10
   Speed Bonus: -4
 -----------------------------
 Item Type: Equipable
-Blessed Bracelet
+ Chestplate
+  Damage Bonus: 0
+  Speed Bonus: 0
+-----------------------------
+Item Type: Equipable
+Cursed Belt
+  Damage Bonus: -14
+  Speed Bonus: -6
+-----------------------------
+Item Type: Weapon
+Cracked Sword
+  Damage Bonus: -6
+  Speed Bonus: -2
+-----------------------------
+Item Type: Weapon
+Blessed Mace
   Damage Bonus: 8
   Speed Bonus: 6
 -----------------------------
-Item Type: Weapon
- Crossbow
-  Damage Bonus: 0
-  Speed Bonus: 0
-  Wildcard: Lifesteal on hit
------------------------------
 Item Type: Equipable
-Legendary Chestplate
+Legendary Amulet
   Damage Bonus: 14
   Speed Bonus: 6
 -----------------------------
-Item Type: Equipable
-Divine Chestplate
-  Damage Bonus: 10
-  Speed Bonus: 4
------------------------------
-Item Type: Equipable
- Amulet
+Item Type: Weapon
+ Arquebus
   Damage Bonus: 0
   Speed Bonus: 0
-  Wildcard: Increases movement speed
+-----------------------------
+Item Type: Weapon
+Reliable Dagger
+  Damage Bonus: 2
+  Speed Bonus: 2
 -----------------------------"
