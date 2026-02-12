@@ -48,6 +48,7 @@ vector<string> weaponNames = {
     "Arquebus",
     "Mace"
 };
+
 vector<string> equipableNames = {
     "Ring",
     "Amulet",
