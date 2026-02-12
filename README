@@ -1,6 +1,8 @@
 C++ based item modifier generator a la Borderlands or Terraria, creates statistical and behavioural modifiers for items in an RPG style. Can be used in anything from a Turn-Based RPG to shooter with RPG elements context.
 How to:
-Currently generates plain text output, can be ran in anything that can compile C++, when ran, you are prompted whether to use the default list of items or input your own, so far, there are two categories of items, equipables and weapons.
+Currently generates plain text output, can be ran in anything that can compile C++, when ran, you are prompted whether to use the default list of items or input your own, 
+so far, there are two categories of items, equipables and weapons.
+It can run in a GitHub codespace.
 Parameters:
 There are three parameters that may be adjusted, with comments in the code.
 Modifier strength, 1, 2 or 3, determines the strength of both positive and negative modifiers (numerical values).
